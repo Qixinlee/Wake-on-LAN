@@ -1,3 +1,7 @@
+# Author: liqixin
+# Mail: hi@qixinlee.com
+# Web: https://www.qixinlee.com
+
 import streamlit as st
 import wakeonlan
 
