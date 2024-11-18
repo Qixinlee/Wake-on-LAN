@@ -13,9 +13,9 @@
 
 1. 确保你已经安装了 Python 环境。
 2. 安装依赖库：
-   ```bash
-   pip install streamlit wakeonlan
-   ``
+```bash
+pip install streamlit wakeonlan
+```
 3. 运行应用：
 ```bash
 streamlit run wol.py
